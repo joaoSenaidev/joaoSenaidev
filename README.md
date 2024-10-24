@@ -1,3 +1,9 @@
+## Olá Eu sou o Joao 🙋‍♂️
+- 🏫 Cursando Desenvolvimento de Sistemas 
+- 📚 Estudando CSS, HTML, JS e C++
+- ⛬ Futuro Desenvolvedor
+
+
 
 ### Tecnologias que eu tenho conhecimento 👨‍💻
 <div style="display: inline_block"><br/>
