@@ -1,6 +1,6 @@
 ## Olá Eu sou o Joao 🙋‍♂️
 - 🏫 Cursando Desenvolvimento de Sistemas 
-- 📚 Estudando CSS, HTML, JS e C++
+- 📚 Estudando CSS, HTML, C#, JS, C++ e Dart
 - ⛬ Futuro Desenvolvedor
 
 
