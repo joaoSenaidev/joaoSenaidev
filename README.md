@@ -1,8 +1,8 @@
 ## Olá Eu sou o Joao 🙋‍♂️
 - 🏫 Cursando Desenvolvimento de Sistemas 
 - 📚 Estudando CSS, HTML, C#, JS, C++ e Dart
-- ⛬ Futuro Desenvolvedor
-
+- ⛬ Desenvolvedor de Software
+- 📱 Desenvolvedor Mobile
 
 
 ### Tecnologias que eu tenho conhecimento 👨‍💻
